@@ -1,0 +1,16 @@
+{
+  "name": "dcontract-test-task",
+  "version": "1.0.0",
+  "description": "Тестовое задание для DContract - загрузка клиентов через API в Google Sheets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "googleapis": "^92.0.0"
+  },
+  "keywords": ["dcontract", "test-task", "api", "google-sheets"],
+  "author": "",
+  "license": "ISC"
+}
